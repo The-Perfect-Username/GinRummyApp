@@ -1,0 +1,5 @@
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\bin\GinRummyLibrary.dll
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\bin\GinRummyLibrary.pdb
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\bin\GinRummyLibrary.XML
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyLibrary\obj\Debug\GinRummyLibrary.dll
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyLibrary\obj\Debug\GinRummyLibrary.pdb

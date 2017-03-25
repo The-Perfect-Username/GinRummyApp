@@ -1,0 +1,14 @@
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\bin\GinRummy.exe.config
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\bin\GinRummy.exe
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\bin\GinRummy.pdb
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummyApp.csprojResolveAssemblyReference.cache
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyApp\obj\Debug\App.g.cs
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummy_MarkupCompile.cache
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummy_MarkupCompile.lref
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyApp\obj\Debug\Views\View.baml
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummy.g.resources
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyApp\obj\Debug\QUT.Properties.Resources.resources
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummyApp.csproj.GenerateResource.Cache
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummy.exe
+C:\Users\Locky\Documents\Visual Studio 2015\Projects\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummy.pdb
