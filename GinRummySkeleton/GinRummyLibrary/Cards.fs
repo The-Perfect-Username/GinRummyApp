@@ -20,8 +20,21 @@ let allCards =
 let FullDeck = 
     allCards
 
+// Create new random object
+let rand = new System.Random()
+
+// Swap two elements in an array
+let swap (a: _[]) x y =
+    let tmp = a.[x]
+    a.[x] <- a.[y]
+    a.[y] <- tmp
+
 let Shuffle (deck:Deck) = 
-    deck
-    // Fixme: change so that it returns a shuffled deck
+    // Temporarily convert sequence to an array
+    let deckArray = Seq.toArray deck
+    // Iterate through the array and swap the current indexed element with a random indexed element
+    Array.iteri (fun x _ -> swap deckArray x (rand.Next(x, Array.length deckArray))) deckArray
+       // Covnert back to sequence and return shuffled deck
+    Array.toSeq deckArray
 
 // Add other functions here related to Card Games ...
